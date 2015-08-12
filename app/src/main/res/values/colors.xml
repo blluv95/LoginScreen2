@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trang">#00ffff</color>
+    <color name="text_hint">#ccffffff</color>
+    <color name="text_not_important">#66ffffff</color>
+    <color name="primaryColor">#FFEB3B</color>
+    <color name="primaryColorDark">#FBC02D</color>
+    <color name="accentColor">#F44336</color>
+
+</resources>
